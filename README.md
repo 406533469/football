@@ -1,6 +1,8 @@
-##Footbal 足球、社群项目
+##Footbal 锟斤拷锟斤拷锟斤拷群锟斤拷目
 ===========================
 
-### 前端采用了Vue、Vue-router、VueX、Axios
+### 前锟剿诧拷锟斤拷锟斤拷Vue锟斤拷Vue-router锟斤拷VueX锟斤拷Axios
 
-### 后端采用了Node、Express
+### 锟斤拷瞬锟斤拷锟斤拷锟絅ode锟斤拷Express
+
+123123123
